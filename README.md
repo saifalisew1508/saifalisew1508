@@ -1,16 +1,18 @@
-### Hi there 👋
+ExᴛʀAᴄᴛᴇᴅ DᴀᴛᴀBᴀsᴇ Fʀᴏᴍ TᴇʟᴇGʀᴀᴍ's 
 
-<!--
-**ProXSammY/ProXSammY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I'ᴍ Cᴜʀʀᴇɴᴛʟʏ Wᴏʀᴋɪɴɢ Oɴ Tᴇᴀᴍ RᴀɪCʜᴜ
 
-Here are some ideas to get you started:
+🌱 I'ᴍ Cᴜʀʀᴇɴᴛʟʏ Lᴇᴀʀɴɪɴɢ Pʏᴛʜᴏɴ Aɴᴅ PʏʀᴏGʀᴀᴍ
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤔 I'ᴍ Lᴏᴏᴋɪɴɢ Fᴏʀ Hᴇʟᴘ Wɪᴛʜ Nᴏᴏʙ Cᴏᴅᴇʀ
+
+=============================
+Nᴀᴍᴇ = "ℝ𝕒𝕚ℂ𝕙𝕦"
+Aɢᴇ = "Sᴇᴄʀᴇᴛ"
+Gᴀɴɢ = "『ᏇօʟʄᎶαռɢ』"
+Cᴏᴜɴᴛʀʏ = "🇮🇳"
+=============================
+
+••Tᴇʟᴇɢʀᴀᴍ ID: 1668305941
+••Pᴇʀᴍᴀɴᴇɴᴛ Lɪɴᴋ: @RaiChuXD
+••Bɪᴏ: 💙 | 🤟 @RaiChuInFo !
