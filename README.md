@@ -33,8 +33,8 @@ Gᴀɴɢ = `"【✮ꪑﾒꪀ✮】"`
 Cᴏᴜɴᴛʀʏ = `"🇮🇳"`
 
 Tᴇʟᴇɢʀᴀᴍ ID: `1668305941`
-Pᴇʀᴍᴀɴᴇɴᴛ Lɪɴᴋ: `@RaiChuXD`
-Bɪᴏ: 💙 | 🤟 `@RaiChuInFo` 
+Pᴇʀᴍᴀɴᴇɴᴛ Lɪɴᴋ: `@SammyXD`
+Bɪᴏ: 💙 | 🤟 `@MyInFoXD` 
 
 <p align="center"><a href="https://github.com/FriDayXD"><img src="https://github-readme-stats.vercel.app/api?username=FriDayXD&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/FriDayXD"><img src="ht
