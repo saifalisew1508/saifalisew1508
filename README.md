@@ -27,13 +27,13 @@
 🤔  I'ᴍ Lᴏᴏᴋɪɴɢ Fᴏʀ Hᴇʟᴘ Wɪᴛʜ Nᴏᴏʙ Cᴏᴅᴇʀ
 
 
-Nᴀᴍᴇ = `"丂ﾑﾶﾶƳ"`
+Nᴀᴍᴇ = `"メ 丂𐌕𐌀𐍂Ӄ メ"`
 Aɢᴇ = `"Sᴇᴄʀᴇᴛ"`
-Gᴀɴɢ = `"【✮ꪑﾒꪀ✮】"`
+Gᴀɴɢ = `"『ꎇ乂ꈤ』"`
 Cᴏᴜɴᴛʀʏ = `"🇮🇳"`
 
-Tᴇʟᴇɢʀᴀᴍ ID: `1668305941`
-Pᴇʀᴍᴀɴᴇɴᴛ Lɪɴᴋ: `@SammyXD`
+Tᴇʟᴇɢʀᴀᴍ ID: `1693456282`
+Pᴇʀᴍᴀɴᴇɴᴛ Lɪɴᴋ: `@OpFriDay`
 Bɪᴏ: 💙 | 🤟 `@MyInFoXD` 
 
 <p align="center"><a href="https://github.com/FriDayXD"><img src="https://github-readme-stats.vercel.app/api?username=FriDayXD&show_icons=true&theme=radical"></a></p>
