@@ -29,11 +29,11 @@
 
 Nᴀᴍᴇ = `"メ 丂𐌕𐌀𐍂Ӄ メ"`
 Aɢᴇ = `"Sᴇᴄʀᴇᴛ"`
-Gᴀɴɢ = `"『ꎇ乂ꈤ』"`
+Gᴀɴɢ = `"メ𐌕"`
 Cᴏᴜɴᴛʀʏ = `"🇮🇳"`
 
 Tᴇʟᴇɢʀᴀᴍ ID: `1693456282`
-Pᴇʀᴍᴀɴᴇɴᴛ Lɪɴᴋ: `@OpFriDay`
+Pᴇʀᴍᴀɴᴇɴᴛ Lɪɴᴋ: `@ideotxd`
 Bɪᴏ: 💙 | 🤟 `@MyInFoXD` 
 
 <p align="center"><a href="https://github.com/FriDayXD"><img src="https://github-readme-stats.vercel.app/api?username=FriDayXD&show_icons=true&theme=radical"></a></p>
