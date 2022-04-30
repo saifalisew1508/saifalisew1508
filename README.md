@@ -1,7 +1,7 @@
 ## Connect With Me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
-[![telegram badge](https://img.shields.io/badge/Telegram-30302f?style=flat&logo=telegram)](https://t.me/SammyXD)<br>
-[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github logo" width="34">](https://github.com/SammyXD) [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:arkamtg.mrsammyxd@gmail.com)
+[![telegram badge](https://img.shields.io/badge/Telegram-30302f?style=flat&logo=telegram)](https://t.me/CallMRana)<br>
+[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github logo" width="34">](https://github.com/FriDayXD) [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:arkamtg.mrsammyxd@gmail.com)
 
 
 
@@ -29,12 +29,12 @@
 
 Nᴀᴍᴇ = `"メ 丂ﾑﾶﾶƳ メ"`
 Aɢᴇ = `"Sᴇᴄʀᴇᴛ"`
-Gᴀɴɢ = `"DC"`
+Gᴀɴɢ = `"GE"`
 Cᴏᴜɴᴛʀʏ = `"🇮🇳"`
 
 Tᴇʟᴇɢʀᴀᴍ ID: `1145990357`
-Pᴇʀᴍᴀɴᴇɴᴛ Lɪɴᴋ: `@SammyXD`
-Bɪᴏ: 💙 | 🤟 `@MyInFoXD` 
+Pᴇʀᴍᴀɴᴇɴᴛ Lɪɴᴋ: `@CallMRana`
+Bɪᴏ: 💙 | 🤟 `@RanaJiStore` 
 
 <p align="center"><a href="https://github.com/FriDayXD"><img src="https://github-readme-stats.vercel.app/api?username=FriDayXD&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/FriDayXD"><img src="ht
