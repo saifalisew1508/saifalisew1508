@@ -35,16 +35,13 @@
 | -------  | ---------------------------------------------------- |
 | NAME    | SAIF ALI        |
 | AGE   | 18 Years        |
-| D.O.B | 1st July               |
+| Date-of-Birth | 1st July               |
 | NATIONALITY | Indian 🇮🇳            |
 | Permanent Username | saifalisew1508                             |        
 | Telegram USER_ID    | 5281810129                              |
 | BIO   | Sayu Love Forever                              |
 | Status | Single 🖤                              |
 
-Permanent ID: `5281810129`
-Permanent Username: `@saifalisew1508`
-Bio: 💙 | 🤟 `Sayu love forever` 
 
 <p align="center"><a href="https://github.com/saifalisew1508"><img src="https://github-readme-stats.vercel.app/api?username=saifalisew1508&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/saifalisew1508"><img src="ht
