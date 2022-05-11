@@ -31,11 +31,12 @@
 
 🚀  Future Goal Software Engineer
 
-
-Name = `"SAIF ALI"`
-Age = `"18"`
-Birth Date = `"1st July"`
-Nationality = `"Indian 🇮🇳"`
+_____________________________
+Name | `"SAIF ALI"`
+Age | `"18"`
+Birth Date | `"1st July"`
+Nationality | `"Indian 🇮🇳"`
+_____________________________
 
 Permanent ID: `5281810129`
 Permanent Username: `@saifalisew1508`
