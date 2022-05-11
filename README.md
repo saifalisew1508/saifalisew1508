@@ -31,12 +31,12 @@
 
 🚀  Future Goal Software Engineer
 
-| ---  |  -------------------  |
-| Name | `"SAIF ALI"`          |
-| Age  | `"18"`                |
-| Birth Date | `"1st July"`    |
-| Nationality | `"Indian 🇮🇳"`  |
-| ---  | ----------------------|
+| ----------  |  -------------------  |
+| Name        | `"SAIF ALI"`          |
+| Age         | `"18"`                |
+| Birth Date  | `"1st July"`          |
+| Nationality | `"Indian 🇮🇳"`         |
+| ----------  | ----------------------|
 
 Permanent ID: `5281810129`
 Permanent Username: `@saifalisew1508`
