@@ -31,20 +31,16 @@
 
 🚀  Future Goal Software Engineer
 
-| Command  | Description                                          |
+| 👇  | Information                                         |
 | -------  | ---------------------------------------------------- |
 | NAME    | SAIF ALI        |
 | AGE   | 18 Years        |
 | D.O.B | 1st July               |
 | NATIONALITY | Indian 🇮🇳            |
-| /queue   | shows the songs in queue                             |        
-| /skip    | play next song in queue                              |
-| /pause   | pause the audio stream                               |
-| /resume  | resume the audio stream                              |
-| /mute    | mute the assistant                                   |
-| /unmute  | unmute the assistant                                 |
-| /stop    | stop streaming and remove the assistant from the call  |
-| /restart | restart the bot
+| Permanent Username | saifalisew1508                             |        
+| Telegram USER_ID    | 5281810129                              |
+| BIO   | Sayu Love Forever                              |
+| Status | Single 🖤                              |
 
 Permanent ID: `5281810129`
 Permanent Username: `@saifalisew1508`
