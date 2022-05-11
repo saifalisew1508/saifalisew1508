@@ -18,23 +18,25 @@
 
 
 
-## ExᴛʀAᴄᴛᴇᴅ DᴀᴛᴀBᴀsᴇ Fʀᴏᴍ TᴇʟᴇGʀᴀᴍ's 
+## Database About Me !
 
-🔭  I'ᴍ Cᴜʀʀᴇɴᴛʟʏ Wᴏʀᴋɪɴɢ Oɴ Tᴇᴀᴍ RᴀɪCʜᴜ
+🔭  I'm Studies In Class 12th
 
-🌱  I'ᴍ Cᴜʀʀᴇɴᴛʟʏ Lᴇᴀʀɴɪɴɢ Pʏᴛʜᴏɴ Aɴᴅ PʏʀᴏGʀᴀᴍ
+🌱  I'm Currently Learning Python
 
-🤔  I'ᴍ Lᴏᴏᴋɪɴɢ Fᴏʀ Hᴇʟᴘ Wɪᴛʜ Nᴏᴏʙ Cᴏᴅᴇʀ
+🤔  I'm Not a Developer </>
+
+🚀  Future Goal Software Engineer
 
 
-Nᴀᴍᴇ = `"メ 丂ﾑﾶﾶƳ メ"`
-Aɢᴇ = `"Sᴇᴄʀᴇᴛ"`
-Gᴀɴɢ = `"GE"`
-Cᴏᴜɴᴛʀʏ = `"🇮🇳"`
+Name = `"SAIF ALI"`
+Age = `"18"`
+Birth Date = `"1st July"`
+Nationality = `"Indian 🇮🇳"`
 
-Tᴇʟᴇɢʀᴀᴍ ID: `1145990357`
-Pᴇʀᴍᴀɴᴇɴᴛ Lɪɴᴋ: `@saifalisew1508`
-Bɪᴏ: 💙 | 🤟 `Sooon🚀` 
+Permanent ID: `5281810129`
+Permanent Username: `@saifalisew1508`
+Bio: 💙 | 🤟 `Sayu love forever` 
 
 <p align="center"><a href="https://github.com/saifalisew1508"><img src="https://github-readme-stats.vercel.app/api?username=saifalisew1508&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/saifalisew1508"><img src="ht
