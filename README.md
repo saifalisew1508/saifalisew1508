@@ -33,7 +33,7 @@
 
 | 👇  | Information                                         |
 | -------  | ---------------------------------------------------- |
-| NAME    | SAIF ALI        |
+| NAME    | ``SAIF ALI``        |
 | AGE   | 18 Years        |
 | Date-of-Birth | 1st July               |
 | NATIONALITY | Indian 🇮🇳            |
