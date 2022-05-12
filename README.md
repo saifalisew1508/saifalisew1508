@@ -4,7 +4,7 @@
 [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github logo" width="34">](https://github.com/saifalisew1508) [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="34">](mailto:sachinsaif03@gmail.com)
 [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" height="34px">](https://Twitter.com/saifalisew1508)
 [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" height="34px">](https://Instagram.com/saifalisew1508)
-<img src="https://avatars.githubusercontent.com/u/83064362?v=4" width="34px">
+[<img src="https://avatars.githubusercontent.com/u/83064362?v=4" width="34px">](https://github.com/itsBudhhu)
 
 
 
