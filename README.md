@@ -4,8 +4,8 @@
 	<img src="https://img.shields.io/twitter/follow/saifalisew1508?logo=twitter&style=for-the-badge" alt="saifalisew1508" />
 </a>
 
-<a href="https://www.linkedin.com/in/akrishnamoorthy007/" align="center" target="blank">
-	<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="akrishnamoorthy007" />
+<a href="https://www.linkedin.com/in/saifalisew1508/" align="center" target="blank">
+	<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="saifalisew1508" />
 </a>
 </p>
 <hr />
