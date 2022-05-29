@@ -7,6 +7,9 @@
 <a href="https://www.linkedin.com/in/saifalisew1508/" align="center" target="blank">
 	<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="saifalisew1508" />
 </a>
+
+<a href="https://instagram.com/saifalisew1508"  align="center" target="blank">
+        <img src="https://img.shields.io/badge/Instagram-f35415?style=for-the-badge&logo=instagram&logoColor=white" alt="saifalisew1508"
 </p>
 <hr />
 
