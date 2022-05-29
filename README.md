@@ -10,6 +10,14 @@
 
 <a href="https://instagram.com/saifalisew1508"  align="center" target="blank">
         <img src="https://img.shields.io/badge/Instagram-f35415?style=for-the-badge&logo=instagram&logoColor=white" alt="saifalisew1508"
+<a/>
+
+<a href="https://t.me/saifalisew1508" align="center" target="blank">
+        <img src="https://img.shields.io/badge/Telegram-15a3d6?style=for-the-badge&logo=telegram&logoColor=white" alt="saifalisew1508"
+<a/>
+
+<a href="https://github.com/saifalisew1508" align="center" target="blank">
+        <img src="https://komarev.com/ghpvc/?username=saifalisew1508&style=for-the-badge" alt"saifalisew1508"
 </p>
 <hr />
 
@@ -42,12 +50,9 @@
   
 <br><img src="https://komarev.com/ghpvc/?username=saifalisew1508&style=flat-square" alt="saifalisew1508" />
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsaifalisew1508&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
-[![telegram badge](https://img.shields.io/badge/Telegram-30302f?style=flat&logo=telegram)](https://t.me/saifalisew1508)
-
 
 
 <p align="center"><a href="https://github.com/saifalisew1508"><img src="https://github-readme-stats.vercel.app/api?username=saifalisew1508&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/saifalisew1508"><img src="ht
 
 
 <!-- Trophies -->
