@@ -22,6 +22,9 @@
 <hr />
 
 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{saifalisew1508}/count.svg" /></p>
+
+
 
 
 <div margin-left: 400px align="center" width="600">
@@ -45,9 +48,16 @@
 </a>
 </p>
 
+<hr />
+
+<p align="center"><a href="https://github.com/saifalisew1508"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifalisew1508&theme=radical&layout=compact"></a></p>
+
 <br />
 
 <p align="center"><a href="https://github.com/saifalisew1508"><img src="https://github-readme-stats.vercel.app/api?username=saifalisew1508&show_icons=true&theme=radical"></a></p>
+
+
+<hr />
 
 
 <!-- Trophies -->
