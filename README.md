@@ -89,13 +89,13 @@
 
 
 <a href="https://www.mozilla.org/firefox/developer/">
-        <img align="center" width="70px" src="image/Firefox_Developer_Edition.png"/>
+        <img align="center" width="70px" src="image/Firefox_Developer_Edition.png" alt="Firefox Developers"/>
 </a>
 <a href="https://www.mozilla.org/firefox/channel/desktop/#nightly">
-        <img align="center" width="70px" src="image/Firefox_Nightly_Edition.png"/>
+        <img align="center" width="70px" src="image/Firefox_Nightly_Edition.png" alt="Firefox Nightly"/>
 </a>
 <a href="https://www.mozilla.org/firefox/new/">
-        <img align="center" width="70px" src="image/Firefox.png"/>
+        <img align="center" width="70px" src="image/Firefox.png" alt="Firefox"/>
 </a>
 <hr/>
 
