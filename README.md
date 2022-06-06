@@ -1,3 +1,18 @@
+<a href="https://instagram.com/saifalisew1508" target="_blank">
+    <img align="right" width="128px" src="image/instagram_qr.jpg"/>
+</a>
+
+<h2>
+    <samp>Hi there! I'm Saif</samp>
+</h2>
+<p>
+    <samp>
+        I'm a developer,started programming in high school, and currently live in Siwan, Bihar. I like open
+        source, and most of the time I'm active on GitHub.
+    </samp>
+</p>
+
+
 <h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://twitter.com/saifalisew1508" align="center" target="blank">
@@ -67,7 +82,7 @@
 
 <hr/>
 <p>
-    <strong>Do have faith in what you're doing.</strong>
+    <samp>Do have faith in what you're doing.</strong>
 <p>
 <a href="https://t.me/saifalisew1508">
         <img alt="Saif Ali - Telegram" align="center" width="30px" src="image/telegram.svg"/>
