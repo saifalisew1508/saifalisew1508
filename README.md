@@ -36,7 +36,7 @@
 <a/>
 
 <a href="https://github.com/saifalisew1508" align="center" target="blank">
-        <img src="https://komarev.com/ghpvc/?username=saifalisew1508&style=for-the-badge" alt"saifalisew1508"
+        <img src="https://komarev.com/ghpvc/?username=saifalisew1508&style=for-the-badge" alt"Profile Views"
 </p>
 <hr />
 
