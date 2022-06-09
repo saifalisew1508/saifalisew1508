@@ -13,7 +13,7 @@
 </p>
 
 
-<h3 align="center">Connect with me</h3>
+<h3 align="center">Connect with me 🤝</h3>
 <p align="center">
 <a href="https://twitter.com/saifalisew1508" align="center" target="blank">
 	<img src="https://img.shields.io/twitter/follow/saifalisew1508?logo=twitter&style=for-the-badge" alt="Saif Ali - Twitter" />
@@ -42,7 +42,7 @@
 
 
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{saifalisew1508}/count.svg" /></p>
-
+<hr />
 
 
 
@@ -60,7 +60,7 @@
 </a>
 </p>
 
-<!-- Activity graph -->
+<!-- Activity Graph📊-->
 <p align="center">
 <a href="#go-nowhere">
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=saifalisew1508&theme=github&bg_color=ffffff00&color=2800f0&point=a35eff&line=15f4ee&custom_title=Last%20month%20GitHub%20activity&hide_border=true&area=true" alt="Saif monthly coding activity" />
@@ -74,10 +74,10 @@
 
 <p align="center"><a href="https://github.com/saifalisew1508"><img src="https://github-readme-stats.vercel.app/api?username=saifalisew1508&show_icons=true&theme=radical"></a></p>
 
-<!-- Trophies -->
+<!-- Trophies 🏆 -->
 <p align="center"> <a href="#go-nowhere"><img src="https://github-profile-trophy.vercel.app/?username=saifalisew1508&title=Issues,Followers,PullRequest,MultipleLang,Stars,Commit&theme=onedark&no-bg=true&no-frame=true" alt="saifalisew1508" /></a> </p>
 
-<!-- Snake -->
+<!-- Snake Xenzia🐍 -->
 ![github contribution grid snake animation](https://raw.githubusercontent.com/sljeff/sljeff/output/github-contribution-grid-snake.svg)
 
 <hr/>
@@ -117,7 +117,7 @@
 
 <details>
     <summary>
-        <b>More about me</b>
+        <samp>More about me</samp>
     </summary>
 
 
@@ -173,5 +173,15 @@ const SAIF = {
 <p align="center">
     Designed with :heart: by <a href="https://github.com/saifalisew1508" target="_blank">Saif Ali</a>.
 </p>
+
+</details>
+
+
+<details>
+    <summary>
+        <samp>Scroll down</samp>
+    </summary>
+
+## 🎵 Now playing<a href="https://spotify.com/" target="_blank"><img src="https://novatorem.vercel.app/api/spotify" alt="Spotify"></a>
 
 </details>
