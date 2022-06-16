@@ -75,7 +75,10 @@
 <p align="center"><a href="https://github.com/saifalisew1508"><img src="https://github-readme-stats.vercel.app/api?username=saifalisew1508&show_icons=true&theme=radical"></a></p>
 
 <!-- Trophies 🏆 -->
-<p align="center"> <a href="#go-nowhere"><img src="https://github-profile-trophy.vercel.app/?username=saifalisew1508&title=Issues,Followers,PullRequest,MultipleLang,Stars,Commit&theme=onedark&no-bg=true&no-frame=true" alt="saifalisew1508" /></a> </p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=saifalisew1508&row=2&column=3&margin-w=8&margin-h=8" alt="trophies" />
+</p>
 
 <!-- Snake Xenzia🐍 -->
 ![github contribution grid snake animation](https://raw.githubusercontent.com/sljeff/sljeff/output/github-contribution-grid-snake.svg)
