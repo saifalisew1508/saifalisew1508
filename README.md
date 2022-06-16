@@ -179,7 +179,7 @@ const SAIF = {
 
 <details>
     <summary>
-        <samp>Scroll down</samp>
+        <samp>Tap to reveal more details</samp>
     </summary>
 
 ## 🔭 I'm currently study in
