@@ -1,4 +1,4 @@
-<a href="https://instagram.com/saifalisew1508" target="_blank">
+<a href="https://github.com/saifalisew1508" target="Github">
     <img src="https://i.pinimg.com/736x/3f/13/57/3f1357daa60daa686dfef453dc31271b.jpg" width="290px" height="250px" align="right" >
 <h2>
     <samp>Hi there! I'm Saif</samp>
@@ -209,7 +209,6 @@ const SAIF = {
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 ![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
 ![](https://img.shields.io/badge/Style-Material--UI-informational?style=flat&logo=Material-UI&color=0081CB)
-
 
 </br>
 
