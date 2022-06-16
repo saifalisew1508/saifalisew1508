@@ -184,7 +184,7 @@ const SAIF = {
 
 ## 🔭 I'm currently study in
 
-- Intermediate 2nd year 'S.S COLLEGE BASANTPUR, SIWAN, BIHAR'
+- Intermediate 2nd year `S.S COLLEGE BASANTPUR, Siwan, Bihar, India`
 
 ## 🌱 I'm currently learning
 
