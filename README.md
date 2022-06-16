@@ -73,7 +73,7 @@
 <p align="center"><a href="https://github.com/saifalisew1508"><img src="https://github-readme-stats.vercel.app/api?username=saifalisew1508&show_icons=true&theme=radical"></a></p>
 
 <!-- Trophies 🏆 -->
-
+<h3 align="center">Trophies 🏆</h3>
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=saifalisew1508&row=2&column=3&margin-w=8&margin-h=8" alt="trophies" />
 </p>
