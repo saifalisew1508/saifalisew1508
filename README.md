@@ -1,7 +1,5 @@
 <a href="https://instagram.com/saifalisew1508" target="_blank">
-    <img align="right" width="128px" src="image/instagram_qr.jpg"/>
-</a>
-
+    <img src="https://i.pinimg.com/736x/3f/13/57/3f1357daa60daa686dfef453dc31271b.jpg" width="290px" height="250px" align="right" >
 <h2>
     <samp>Hi there! I'm Saif</samp>
 </h2>
