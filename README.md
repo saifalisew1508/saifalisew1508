@@ -43,25 +43,12 @@
 <hr />
 
 
-
-<div margin-left: 400px align="center" width="600">
-
-<img src="https://github.com/saifalisew1508/saifalisew1508/blob/main/HEHECODE.gif" alt=" Hello <𝚌𝚘𝚍𝚎𝚛𝚜/> " width="1200" height="250"/>
-</div>
-
 <div align="center" width="50">
 
 <!-- Streak -->
 <p align="center">
 <a href="#go-nowhere">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saifalisew1508&theme=tokyonight&ring=ffa200&fire=15f4ee&currStreakNum=a35eff&currStreakLabel=a35eff&sideLabels=4296f5&sideNums=4296f5&hide_border=true&background=00000000" alt="saifalisew1508" />
-</a>
-</p>
-
-<!-- Activity Graph📊-->
-<p align="center">
-<a href="#go-nowhere">
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=saifalisew1508&theme=github&bg_color=ffffff00&color=2800f0&point=a35eff&line=15f4ee&custom_title=Last%20month%20GitHub%20activity&hide_border=true&area=true" alt="Saif monthly coding activity" />
 </a>
 </p>
 
@@ -83,48 +70,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=saifalisew1508&row=2&column=3&margin-w=8&margin-h=8" alt="trophies" />
 </p>
 
-<!-- Snake Xenzia🐍 -->
-![github contribution grid snake animation](https://raw.githubusercontent.com/sljeff/sljeff/output/github-contribution-grid-snake.svg)
 
-<hr/>
-<p>
-    <samp>Do have faith in what you're doing.</strong>
-<p>
-<a href="https://t.me/saifalisew1508">
-        <img alt="Saif Ali - Telegram" align="center" width="30px" src="image/telegram.svg"/>
-</a>
-<a href="https://github.com/saifalisew1508">
-        <img alt="Saif Ali - Github" align="center" width="30px" src="image/github.svg"/>
-</a>
-<a href="https://gitlab.com/saifalisew1508">
-        <img alt="Saif Ali - GitLab" align="center" width="30px" src="image/gitlab.svg"/>
-</a>
-<a href="https://twitter.com/saifalisew1508">
-        <img alt="Saif Ali - Twitter" align="center" width="30px" src="image/twitter.svg"/>
-</a>
-<a href="mailto:sachinsaif03@gmail.com">
-        <img alt="Saif Ali - Gmail" align="center" width="30px" src="image/gmail.svg"/>
-</a>
-
-<hr/>
-
-
-<a href="https://www.mozilla.org/firefox/developer/">
-        <img align="center" width="70px" src="image/Firefox_Developer_Edition.png" alt="Firefox Developers"/>
-</a>
-<a href="https://www.mozilla.org/firefox/channel/desktop/#nightly">
-        <img align="center" width="70px" src="image/Firefox_Nightly_Edition.png" alt="Firefox Nightly"/>
-</a>
-<a href="https://www.mozilla.org/firefox/new/">
-        <img align="center" width="70px" src="image/Firefox.png" alt="Firefox"/>
-</a>
-<hr/>
-
-
-<details>
-    <summary>
-        <samp>More about me</samp>
-    </summary>
 
 
 <h3 align="center">Languages</h3>
@@ -143,10 +89,6 @@
     <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=fff"/>
 </p>
 
-
-## 🔭 I'm currently study in
-
-- Intermediate 2nd year `S.S COLLEGE BASANTPUR, Siwan, Bihar, India`
 
 ## 💼 Technical Skills
 
@@ -173,42 +115,3 @@
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
 
-```typescript
-const SAIF = {
-    pronouns: ["He", "Him"],
-    hobby: ["Coffee", "Programming", "Music", "football"],
-    languages: ["Go", "Kotlin", "TypeScript", "Python", "Java", "JavaScript", "Rust", "C++", "Bash", "Dart", "PHP", "HTML5"],
-    technologyStack: {
-        mobile: {
-            android: ["Android XI", "Flutter"],
-        },
-        frontend: {
-            javascript: ["React", "Angular", "Vue", "Electron"],
-            css: ["TailwindCSS", "Material UI", "Vuetify", "Angular Material", "Bootstrap"],
-        },
-        backend: {
-            framework: {
-                golang: ["Echo", "Go Kit"],
-                java: ["Ktor", "Spring Boot"],
-                python: ["Flask"],
-            },
-            databases: ["PostgreSQL", "Redis", "MariaDB","MySQL","MangoDB"],
-            devops: ["Docker", "Kubernetes", "Nginx"],
-            microservice: {
-                protocol: ["RESTful", "gRPC"],
-                messageQueues: ["RabbitMQ","RocketMQ","Kafka"],
-            },
-        },
-        systems: ["macOS", "Ubuntu", "Windows Server", "iOS", "Android"],
-        editors: ["JetBrains Tools", "Visual Studio Code", "Vim"],
-    }
-}
-```
-
-<p align="center">
-    Designed with :heart: by <a href="https://github.com/saifalisew1508" target="_blank">Saif Ali</a>.
-</p>
-
-
-
-</details>
