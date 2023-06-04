@@ -5,8 +5,7 @@
 </h2>
 <p>
     <samp>
-        I'm a developer,started programming in high school, and currently live in Siwan, Bihar. I like open
-        source, and most of the time I'm active on GitHub.
+I am a resident of Siwan district of Bihar. Since childhood, my mind has been very attracted towards phone and computer, that's why I learned a lot of programming language and website designing.
     </samp>
 </p>
 
