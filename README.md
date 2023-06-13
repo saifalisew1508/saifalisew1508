@@ -61,16 +61,7 @@
 </p>
 
 
-<a href="https://github.com/logi-lab">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAIFALISEW1508&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/SAIFALISEW1508">
- 
-</a>
 
-<br />
-
-<p align="center"><a href="https://github.com/saifalisew1508"><img src="https://github-readme-stats.vercel.app/api?username=saifalisew1508&show_icons=true&theme=radical"></a></p>
 
 <!-- Trophies 🏆 -->
 <h3 align="center">Trophies 🏆</h3>
