@@ -48,10 +48,12 @@
 <!-- <a href="https://github.com/saifalisew1508">
     <img src="https://github-readme-stats.vercel.app/api?username=saifalisew1508&show_icons=true&count_private=true&show_icons=true&hide_border=true&hide_title=true&card_width=300px&hide_rank=true&bg_color=00000000&theme=dracula">
 </a> -->
+ 
 
 <a href="https://github.com/saifalisew1508">
     <img src="https://github-stats-alpha.vercel.app/api?username=saifalisew1508&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
+<hr/>
 	
 <!-- Streak -->
 <p align="center">
@@ -60,16 +62,14 @@
 </a>
 </p>
 
-
-
-
+<hr/>
 <!-- Trophies 🏆 -->
 <h3 align="center">Trophies 🏆</h3>
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=saifalisew1508&row=2&column=3&margin-w=8&margin-h=8" alt="trophies" />
 </p>
 
-
+<hr/>
 
 <details>
 <summary>📈 Stats</summary>
