@@ -40,7 +40,7 @@
 <hr />
 
 
-<div align="center" width="50">
+![Saif's wakatime stats](https://status-saifalisew1508.vercel.app/api/wakatime?username=saifalisew1508)
 
 	
 <br/> 
@@ -80,5 +80,5 @@ My Github Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saifalisew1508&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saifalisew1508&theme=dracula)
-
+	
 </details>
