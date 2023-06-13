@@ -1,13 +1,11 @@
 <a href="https://github.com/saifalisew1508" target="Github">
     <img src="https://i.pinimg.com/736x/3f/13/57/3f1357daa60daa686dfef453dc31271b.jpg" width="290px" height="250px" align="right" >
 <h2>
-    <samp>Hi there! I'm Saif</samp>
-</h2>
-<p>
-    <samp>
-I am a resident of Siwan district of Bihar. Since childhood, my mind has been very attracted towards phone and computer, that's why I learned a lot of programming language and website designing.
-    </samp>
+    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courgette&size=25&duration=2000&pause=1500&color=000000&center=true&vCenter=true&multiline=true&width=435&height=300&lines=Hello+My+self+SAIF+ALI;I+am+from+Siwan%2C+Bihar;But+i+live+in+New+Delhi;Since+childhood%2C+my+mind+has+been;very+attracted+towards+phone+and;computer%2C+that's+why+I+learned;a+lot+of+programming+language;Web+Designing+and+many+more+things)](https://git.io/typing-svg)
+    
 </p>
+<br/>
 
 
 <h3 align="center">Connect with me 🤝</h3>
@@ -44,6 +42,17 @@ I am a resident of Siwan district of Bihar. Since childhood, my mind has been ve
 
 <div align="center" width="50">
 
+	
+<br/> 
+
+<!-- <a href="https://github.com/saifalisew1508">
+    <img src="https://github-readme-stats.vercel.app/api?username=saifalisew1508&show_icons=true&count_private=true&show_icons=true&hide_border=true&hide_title=true&card_width=300px&hide_rank=true&bg_color=00000000&theme=dracula">
+</a> -->
+
+<a href="https://github.com/saifalisew1508">
+    <img src="https://github-stats-alpha.vercel.app/api?username=saifalisew1508&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
+	
 <!-- Streak -->
 <p align="center">
 <a href="#go-nowhere">
@@ -71,46 +80,20 @@ I am a resident of Siwan district of Bihar. Since childhood, my mind has been ve
 
 
 
+<details>
+<summary>📈 Stats</summary>
+<br>
+My Github Stats
 
-<h3 align="center">Languages</h3>
-<p align="center">
-    <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=Go&logoColor=fff"/>
-    <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=Kotlin&logoColor=fff"/>
-    <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=fff"/>
-    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=fff"/>
-    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=fff"/>
-    <img alt="Rust" src="https://img.shields.io/badge/-Rust-000?style=for-the-badge&logo=Rust&logoColor=fff"/>
-    <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=fff"/>
-    <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=fff"/>
-    <img alt="GNU Bash" src="https://img.shields.io/badge/-GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=fff"/>
-    <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=fff"/>
-    <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=fff"/>
-    <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=fff"/>
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saifalisew1508&theme=dracula) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saifalisew1508&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saifalisew1508&theme=dracula)
 
 
-## 💼 Technical Skills
+<br>
+Currently Coding & Listening to:
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=CC342D)
-![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=Ruby-On-Rails&color=CC0000)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
-![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=003B57)
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
-![](https://img.shields.io/badge/Style-Material--UI-informational?style=flat&logo=Material-UI&color=0081CB)
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
-![](https://img.shields.io/badge/Tools-Yarn-informational?style=flat&logo=Yarn&color=2C8EBB)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&color=FF6C37)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11159336621&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/11159336621)
 
-
+</details>
