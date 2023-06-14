@@ -1,7 +1,3 @@
-<a href="https://github.com/saifalisew1508" target="Github">
-    <img src="https://i.pinimg.com/736x/3f/13/57/3f1357daa60daa686dfef453dc31271b.jpg" width="290px" height="250px" align="right" >
-<h2>
-    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courgette&size=25&duration=2000&pause=1500&color=000000&center=true&vCenter=true&multiline=true&width=435&height=300&lines=Hello+My+self+SAIF+ALI;I+am+from+Siwan%2C+Bihar;But+i+live+in+New+Delhi;Since+childhood%2C+my+mind+has+been;very+attracted+towards+phone+and;computer%2C+that's+why+I+learned;a+lot+of+programming+language;Web+Designing+and+many+more+things)](https://git.io/typing-svg)
     
 </p>
