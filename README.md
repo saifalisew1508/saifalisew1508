@@ -1,4 +1,4 @@
-[![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=25&duration=2000&pause=1500&color=F70000&center=true&vCenter=true&multiline=true&width=435&height=300&lines=Hello+My+self+Saif+Ali;Since+childhood%2C+my+mind+has+been;very+attracted+towards+phone+and;computer%2C+that's+why+I+learned;a+lot+of+programming+language;Web+Designing+and+many+more+things)](https://github.com/saifalisew1508)
+[![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=25&duration=2000&pause=1500&color=F70000&center=true&vCenter=true&multiline=true&width=435&height=200&lines=Hello+My+self+Saif+Ali;Since+childhood%2C+my+mind+has+been;very+attracted+towards+phone+and;computer%2C+that's+why+I+learned;a+lot+of+programming+language;Web+Designing+and+many+more+things)](https://github.com/saifalisew1508)
 [![Profile Card](https://github-stats-alpha.vercel.app/api?username=saifalisew1508&cc=22272e&tc=37BCF6&ic=fff&bc=0000)](https://github.com/saifalisew1508)
 
 ### **☎️ Contact**
