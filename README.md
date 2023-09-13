@@ -4,16 +4,16 @@
 ### **☎️ Contact**
 > **For any inquiries or Deal, you can reach out to me on:**
 
-[![Telegram Contact](https://img.shields.io/badge/Telegram-Contact_@SexySaif-white?style=social&logo=telegram)](https://https://telegram.dog/SexySaif)
-[![Telegram Contact](https://img.shields.io/badge/Telegram-Contact_@DearSaif-white?style=social&logo=telegram)](https://telegram.dog/DearSaif)
-[![Telegram Group](https://img.shields.io/badge/Telegram-Group_@PublicSource__Chat-white?style=social&logo=telegram)](https://telegram.dog/PublicSource_Chat)
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel_@BotXNews-white?style=social&logo=telegram)](https://telegram.dog/BotXNews)
-[![Instagram Contact](https://img.shields.io/badge/Instagram-Contact_@Saifaliopp-white?style=social&logo=instagram)](https://instagram.com/saifaliopp)
-[![Instagram Contact](https://img.shields.io/badge/Instagram-Contact_@saiffff2004-white?style=social&logo=instagram)](https://instagram.com/saiffff2005)
-[![Twitter Contact](https://img.shields.io/badge/X-Contact_@saifalisew1508-white?style=social&logo=x)](https://x.com/saifalisew1508)
-[![LinkedIN Contact](https://img.shields.io/badge/LinkedIN-Contact_@saifalisew1508-white?style=social&logo=linkedin)](https://www.linkedin.com/in/saifalisew1508/)
-[![SnapChat Contact](https://img.shields.io/badge/SnapChat-Contact_@saifaliopp-white?style=social&logo=snapchat)](http://snapchat.com/add/saifaliopp)
-[![WhatsApp Contact](https://img.shields.io/badge/WhatsApp-Contact_+919708973259-white?style=social&logo=whatsapp)](https://wa.me/919708973259?text=Hello%20Saif%2C%20%0AI%20saw%20your%20github%20on%20profile%20I%20need%20some%20help%20)
+[![Telegram Contact](https://img.shields.io/badge/Telegram-Username_@SexySaif-white?style=social&logo=telegram)](https://https://telegram.dog/SexySaif)
+[![Telegram Contact](https://img.shields.io/badge/Telegram-Username_@DearSaif-white?style=social&logo=telegram)](https://telegram.dog/DearSaif)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Group_Username_@PublicSource__Chat-white?style=social&logo=telegram)](https://telegram.dog/PublicSource_Chat)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel_Username_@BotXNews-white?style=social&logo=telegram)](https://telegram.dog/BotXNews)
+[![Instagram Contact](https://img.shields.io/badge/Instagram-Username_@Saifaliopp-white?style=social&logo=instagram)](https://instagram.com/saifaliopp)
+[![Instagram Contact](https://img.shields.io/badge/Instagram-Username_@saiffff2004-white?style=social&logo=instagram)](https://instagram.com/saiffff2005)
+[![Twitter Contact](https://img.shields.io/badge/X-Username_@saifalisew1508-white?style=social&logo=x)](https://x.com/saifalisew1508)
+[![LinkedIN Contact](https://img.shields.io/badge/LinkedIN-Username_@saifalisew1508-white?style=social&logo=linkedin)](https://www.linkedin.com/in/saifalisew1508/)
+[![SnapChat Contact](https://img.shields.io/badge/SnapChat-Username_@saifaliopp-white?style=social&logo=snapchat)](http://snapchat.com/add/saifaliopp)
+[![WhatsApp Contact](https://img.shields.io/badge/WhatsApp-Number_+919708973259-white?style=social&logo=whatsapp)](https://wa.me/919708973259?text=Hello%20Saif%2C%20%0AI%20saw%20your%20github%20on%20profile%20I%20need%20some%20help%20)
 
 
 
