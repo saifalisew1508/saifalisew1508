@@ -4,16 +4,22 @@
 ### **☎️ Contact**
 > **For any inquiries or Deal, you can reach out to me on:**
 
+[![Gmail Contact](https://img.shields.io/badge/Gmail-Username_sachinsaif03@gmail.com-white?style=social&logo=gmail)](mail.me:sachinsaif03@gmail.com)
 [![Telegram Contact](https://img.shields.io/badge/Telegram-Username_@SexySaif-white?style=social&logo=telegram)](https://https://telegram.dog/SexySaif)
 [![Telegram Contact](https://img.shields.io/badge/Telegram-Username_@DearSaif-white?style=social&logo=telegram)](https://telegram.dog/DearSaif)
 [![Telegram Group](https://img.shields.io/badge/Telegram-Group_Username_@PublicSource__Chat-white?style=social&logo=telegram)](https://telegram.dog/PublicSource_Chat)
 [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel_Username_@BotXNews-white?style=social&logo=telegram)](https://telegram.dog/BotXNews)
 [![Instagram Contact](https://img.shields.io/badge/Instagram-Username_@Saifaliopp-white?style=social&logo=instagram)](https://instagram.com/saifaliopp)
 [![Instagram Contact](https://img.shields.io/badge/Instagram-Username_@saiffff2004-white?style=social&logo=instagram)](https://instagram.com/saiffff2005)
+[![FaceBook Contact](https://img.shields.io/badge/FaceBook-Username_@saifalisew1508-white?style=social&logo=facebook)](https://facebook.com/saifalisew1508)
+[![Thread Contact](https://img.shields.io/badge/Threads-Username_@saifalisew1508-white?style=social&logo=threads)](https://threads.com/saifalisew1508)
 [![Twitter Contact](https://img.shields.io/badge/X-Username_@saifalisew1508-white?style=social&logo=x)](https://x.com/saifalisew1508)
+[![Pinterest Contact](https://img.shields.io/badge/Pinterst-Username_@saifalisew1508-white?style=social&logo=pinterest)](https://pinterest.com/saifalisew1508)
 [![LinkedIN Contact](https://img.shields.io/badge/LinkedIN-Username_@saifalisew1508-white?style=social&logo=linkedin)](https://www.linkedin.com/in/saifalisew1508/)
 [![SnapChat Contact](https://img.shields.io/badge/SnapChat-Username_@saifaliopp-white?style=social&logo=snapchat)](http://snapchat.com/add/saifaliopp)
 [![WhatsApp Contact](https://img.shields.io/badge/WhatsApp-Number_+919708973259-white?style=social&logo=whatsapp)](https://wa.me/919708973259?text=Hello%20Saif%2C%20%0AI%20saw%20your%20github%20on%20profile%20I%20need%20some%20help%20)
+
+![Profile Viewws](https://komarev.com/ghpvc/?username=saifalisew1508&style=for-the-badge)
 
 
 
