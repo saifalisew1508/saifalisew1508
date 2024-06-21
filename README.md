@@ -1,4 +1,4 @@
-[![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=25&duration=2000&pause=1600&color=%231AF73D&center=true&vCenter=true&multiline=true&width=435&height=200&lines=Hello+My+self+Saif+Ali;Since+childhood%2C+my+mind+has+been;very+attracted+towards+phone+and;computer%2C+that's+why+I+learned;a+lot+of+programming+language;Web+Designing+and+many+more+things)](https://github.com/saifalisew1508)
+[![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Sofia&size=25&duration=2000&pause=1600&color=%F70000FF&center=true&vCenter=true&multiline=true&width=435&height=200&lines=Hello+My+self+Saif+Ali;Since+childhood%2C+my+mind+has+been;very+attracted+towards+phone+and;computer%2C+that's+why+I+learned;a+lot+of+programming+language;Web+Designing+and+many+more+things)](https://github.com/saifalisew1508)
 
 [![Profile Card](https://github-stats-alpha.vercel.app/api?username=saifalisew1508&cc=22272e&tc=37BCF6&ic=fff&bc=0000)](https://github.com/saifalisew1508)
 
@@ -49,7 +49,7 @@ Hello! I'm **Saif Ali**. Ever since my childhood, I have been deeply fascinated 
 Feel free to reach out to me for any inquiries or collaboration opportunities through the following platforms:
 
 [![Gmail Contact](https://img.shields.io/badge/Gmail-Username_sachinsaif03@gmail.com-white?style=social&logo=gmail)](mailto:sachinsaif03@gmail.com)
-[![Telegram Contact](https://img.shields.io/badge/Telegram-Username_@SexySaif-white?style=social&logo=telegram)](https://telegram.dog/SexySaif)
+[![Telegram Contact](https://img.shields.io/badge/Telegram-Username_@LostedPerson-white?style=social&logo=telegram)](https://telegram.dog/LostedPerson)
 [![Telegram Contact](https://img.shields.io/badge/Telegram-Username_@DearSaif-white?style=social&logo=telegram)](https://telegram.dog/DearSaif)
 [![Telegram Group](https://img.shields.io/badge/Telegram-Group_Username_@PublicSource__Chat-white?style=social&logo=telegram)](https://telegram.dog/PublicSource_Chat)
 [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel_Username_@BotXNews-white?style=social&logo=telegram)](https://telegram.dog/BotXNews)
