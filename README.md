@@ -54,7 +54,6 @@ Feel free to reach out to me for any inquiries or collaboration opportunities th
 [![Telegram Group](https://img.shields.io/badge/Telegram-Group_Username_@PublicSource__Chat-white?style=social&logo=telegram)](https://telegram.dog/PublicSource_Chat)
 [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel_Username_@BotXNews-white?style=social&logo=telegram)](https://telegram.dog/BotXNews)
 [![Instagram Contact](https://img.shields.io/badge/Instagram-Username_@Saifaliopp-white?style=social&logo=instagram)](https://instagram.com/saifaliopp)
-[![Instagram Contact](https://img.shields.io/badge/Instagram-Username_@saiffff2004-white?style=social&logo=instagram)](https://instagram.com/saiffff2005)
 [![FaceBook Contact](https://img.shields.io/badge/FaceBook-Username_@saifalisew1508-white?style=social&logo=facebook)](https://facebook.com/saifalisew1508)
 [![Thread Contact](https://img.shields.io/badge/Threads-Username_@saifalisew1508-white?style=social&logo=threads)](https://threads.com/saifalisew1508)
 [![Twitter Contact](https://img.shields.io/badge/X-Username_@saifalisew1508-white?style=social&logo=x)](https://x.com/saifalisew1508)
